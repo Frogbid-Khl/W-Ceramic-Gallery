@@ -2181,7 +2181,7 @@ header#pq-header .pq-bottom-header .navbar .navbar-nav li:last-child {
 header#pq-header .pq-bottom-header .navbar .navbar-nav li a {
 	color: var(--dark-color);
 	font-family: var(--title-fonts);
-	font-size: 14px;
+	font-size: 12px;
 	text-transform: uppercase;
 	line-height: 22px;
 	font-weight: 600;
